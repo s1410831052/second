@@ -1,0 +1,9 @@
+.container_in{
+    position: relative;
+    background-color: burlywood;
+}
+
+.inner{
+    position: absolute;
+    background-color: aquamarine;
+}
